@@ -2,24 +2,24 @@ Unlisted youtube video:
 https://youtu.be/n2CeOdClL7E
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICCIT202
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Human Speech Emotion Recognition Using CNN
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1i2wACXkfYJCY7Fb1WE5BDUs8MwheeUM55E1rXz52JNc/edit?usp=sharing
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 9/8/2022
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: 14
 
 
-Conference Name:
+Conference Name: ICCIT 2022 25th INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY
 
 
-Conference URL:
+Conference URL: https://iccit.org.bd/2022/call-for-paper/
 
 
 Group Number:
