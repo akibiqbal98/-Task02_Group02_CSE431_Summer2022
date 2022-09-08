@@ -19,7 +19,7 @@ Paper submission ID: 14
 Conference Name: ICCIT 2022 25th INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY
 
 
-Conference URL: https://iccit.org.bd/2022/call-for-paper/
+Conference URL: https://iccit.org.bd/2022/
 
 
 Group Number:
