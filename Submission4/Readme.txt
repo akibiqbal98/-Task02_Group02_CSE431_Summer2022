@@ -26,8 +26,9 @@ Group Number:
 2
 
 Group Members:
+18201142	MD.Akib Iqbal Majumder
+20201224	Irfana Arafin
 18101312	Tajish Farhan
 18101582	Nusrat Jaman Pretty
-18201142	MD.Akib Iqbal Majumder
 20141046	Md. Abdullah Al Masum Anas
-20201224	Irfana Arafin
+
